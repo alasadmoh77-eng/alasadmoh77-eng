@@ -1,9 +1,11 @@
-<div align="center" width="50">
+<div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mohammed+Alasad+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Web+Application+Builder+%F0%9F%9A%80;React+%7C+Laravel+%7C+UI%2FUX" alt="Typing SVG" />
 
-<h1>Hi, I'm Mohammed Alasad 👋</h1>
+<br><br>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="coding gif" />
+
 <h3>Full Stack Developer 💻 | Web Application Builder 🚀</h3>
 
 </div>
